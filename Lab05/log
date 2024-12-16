@@ -167,3 +167,70 @@ Untracked files:
 	../paok
 
 nothing added to commit but untracked files present (use "git add" to track)
+[new_branch 337ded4] Lab05 OS
+ 60 files changed, 664 insertions(+)
+ create mode 100644 Lab05/archive.tar
+ create mode 100644 Lab05/archive.tar.gz
+ create mode 100644 Lab05/destination.txt
+ create mode 100644 Lab05/example1.c
+ create mode 100644 Lab05/example2.c
+ create mode 100644 Lab05/example3.c
+ create mode 100644 Lab05/example4.c
+ create mode 100644 Lab05/example5.c
+ create mode 100644 Lab05/example6.c
+ create mode 100644 Lab05/file.txt
+ create mode 100644 Lab05/filename
+ create mode 100644 Lab05/home/romanost/OS/Lab05/archive.tar
+ create mode 100644 Lab05/home/romanost/OS/Lab05/destination.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example1.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example2.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example3.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example4.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example5.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example6.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/file.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/filename
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/log
+ create mode 100644 Lab05/home/romanost/OS/Lab05/newname.txt
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out1
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out2
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out3
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out4
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out5
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out6
+ create mode 100644 Lab05/home/romanost/OS/Lab05/pattern.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/source.txt
+ create mode 100644 Lab05/log
+ create mode 100644 Lab05/newname.txt
+ create mode 100755 Lab05/out1
+ create mode 100755 Lab05/out2
+ create mode 100755 Lab05/out3
+ create mode 100755 Lab05/out4
+ create mode 100755 Lab05/out5
+ create mode 100755 Lab05/out6
+ create mode 100644 Lab05/pattern.txt
+ create mode 100644 Lab05/source.txt
+fatal: The current branch new_branch has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin new_branch
+
