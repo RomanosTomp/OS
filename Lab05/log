@@ -1,0 +1,366 @@
+/home/romanost/OS/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+out1
+out2
+out3
+out4
+out5
+out6
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303938      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1255/romanost)   Gid: ( 1257/romanost)
+Access: 2024-12-16 12:14:36.825432481 +0200
+Modify: 2024-12-16 12:14:36.825432481 +0200
+Change: 2024-12-16 12:14:36.825432481 +0200
+ Birth: -
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: Removing leading `/' from member names
+/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/out2
+tar: /home/romanost/OS/Lab05/archive.tar: file is the archive; not dumped
+/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/log
+tar: /home/romanost/OS/Lab05/log: file changed as we read it
+/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/destination.txt
+home/romanost/OS/Lab05/
+home/romanost/OS/Lab05/example2.c
+home/romanost/OS/Lab05/example4.c
+home/romanost/OS/Lab05/out5
+home/romanost/OS/Lab05/out3
+home/romanost/OS/Lab05/source.txt
+home/romanost/OS/Lab05/filename
+home/romanost/OS/Lab05/file.txt
+home/romanost/OS/Lab05/example5.c
+home/romanost/OS/Lab05/newname.txt
+home/romanost/OS/Lab05/out6
+home/romanost/OS/Lab05/example3.c
+home/romanost/OS/Lab05/out4
+home/romanost/OS/Lab05/out2
+home/romanost/OS/Lab05/example1.c
+home/romanost/OS/Lab05/out1
+home/romanost/OS/Lab05/example6.c
+home/romanost/OS/Lab05/log
+home/romanost/OS/Lab05/pattern.txt
+home/romanost/OS/Lab05/destination.txt
+tar: Removing leading `/' from member names
+/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/
+/home/romanost/OS/Lab05/home/romanost/
+/home/romanost/OS/Lab05/home/romanost/OS/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/archive.tar
+/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/destination.txt
+tar: /home/romanost/OS/Lab05: file changed as we read it
+tar: /home/romanost/OS/Lab05: Not found in archive
+tar: Exiting with failure status due to previous errors
+home/romanost/OS/Lab05/
+home/romanost/OS/Lab05/example2.c
+home/romanost/OS/Lab05/example4.c
+home/romanost/OS/Lab05/home/
+home/romanost/OS/Lab05/home/romanost/
+home/romanost/OS/Lab05/home/romanost/OS/
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+home/romanost/OS/Lab05/out5
+home/romanost/OS/Lab05/out3
+home/romanost/OS/Lab05/source.txt
+home/romanost/OS/Lab05/filename
+home/romanost/OS/Lab05/file.txt
+home/romanost/OS/Lab05/example5.c
+home/romanost/OS/Lab05/newname.txt
+home/romanost/OS/Lab05/out6
+home/romanost/OS/Lab05/example3.c
+home/romanost/OS/Lab05/out4
+home/romanost/OS/Lab05/out2
+home/romanost/OS/Lab05/archive.tar
+home/romanost/OS/Lab05/example1.c
+home/romanost/OS/Lab05/out1
+home/romanost/OS/Lab05/example6.c
+home/romanost/OS/Lab05/log
+home/romanost/OS/Lab05/pattern.txt
+home/romanost/OS/Lab05/destination.txt
+On branch new_branch
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../Lab04/out
+	./
+	../filename
+	../log
+	../paok
+
+nothing added to commit but untracked files present (use "git add" to track)
+[new_branch 337ded4] Lab05 OS
+ 60 files changed, 664 insertions(+)
+ create mode 100644 Lab05/archive.tar
+ create mode 100644 Lab05/archive.tar.gz
+ create mode 100644 Lab05/destination.txt
+ create mode 100644 Lab05/example1.c
+ create mode 100644 Lab05/example2.c
+ create mode 100644 Lab05/example3.c
+ create mode 100644 Lab05/example4.c
+ create mode 100644 Lab05/example5.c
+ create mode 100644 Lab05/example6.c
+ create mode 100644 Lab05/file.txt
+ create mode 100644 Lab05/filename
+ create mode 100644 Lab05/home/romanost/OS/Lab05/archive.tar
+ create mode 100644 Lab05/home/romanost/OS/Lab05/destination.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example1.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example2.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example3.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example4.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example5.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/example6.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/file.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/filename
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+ create mode 100755 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/log
+ create mode 100644 Lab05/home/romanost/OS/Lab05/newname.txt
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out1
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out2
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out3
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out4
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out5
+ create mode 100755 Lab05/home/romanost/OS/Lab05/out6
+ create mode 100644 Lab05/home/romanost/OS/Lab05/pattern.txt
+ create mode 100644 Lab05/home/romanost/OS/Lab05/source.txt
+ create mode 100644 Lab05/log
+ create mode 100644 Lab05/newname.txt
+ create mode 100755 Lab05/out1
+ create mode 100755 Lab05/out2
+ create mode 100755 Lab05/out3
+ create mode 100755 Lab05/out4
+ create mode 100755 Lab05/out5
+ create mode 100755 Lab05/out6
+ create mode 100644 Lab05/pattern.txt
+ create mode 100644 Lab05/source.txt
+fatal: The current branch new_branch has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin new_branch
+
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: Removing leading `/' from member names
+/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/
+/home/romanost/OS/Lab05/home/romanost/
+/home/romanost/OS/Lab05/home/romanost/OS/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/archive.tar
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/example3.c
+tar: /home/romanost/OS/Lab05/archive.tar: file is the archive; not dumped
+/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/destination.txt
+tar: Removing leading `/' from member names
+/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/
+/home/romanost/OS/Lab05/home/romanost/
+/home/romanost/OS/Lab05/home/romanost/OS/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/archive.tar
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/archive.tar
+/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/log
+tar: /home/romanost/OS/Lab05/log: file changed as we read it
+/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/destination.txt
+tar: /home/romanost/OS/Lab05: file changed as we read it
