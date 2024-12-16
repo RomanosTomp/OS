@@ -1,0 +1,108 @@
+/home/romanost/OS/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+out1
+out2
+out3
+out4
+out5
+out6
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303938      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1255/romanost)   Gid: ( 1257/romanost)
+Access: 2024-12-16 12:14:36.825432481 +0200
+Modify: 2024-12-16 12:14:36.825432481 +0200
+Change: 2024-12-16 12:14:36.825432481 +0200
+ Birth: -
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: Removing leading `/' from member names
+/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/out2
+tar: /home/romanost/OS/Lab05/archive.tar: file is the archive; not dumped
+/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/log
+tar: /home/romanost/OS/Lab05/log: file changed as we read it
+/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/destination.txt
+home/romanost/OS/Lab05/
+home/romanost/OS/Lab05/example2.c
+home/romanost/OS/Lab05/example4.c
+home/romanost/OS/Lab05/out5
+home/romanost/OS/Lab05/out3
+home/romanost/OS/Lab05/source.txt
+home/romanost/OS/Lab05/filename
+home/romanost/OS/Lab05/file.txt
+home/romanost/OS/Lab05/example5.c
+home/romanost/OS/Lab05/newname.txt
+home/romanost/OS/Lab05/out6
+home/romanost/OS/Lab05/example3.c
+home/romanost/OS/Lab05/out4
+home/romanost/OS/Lab05/out2
+home/romanost/OS/Lab05/example1.c
+home/romanost/OS/Lab05/out1
+home/romanost/OS/Lab05/example6.c
+home/romanost/OS/Lab05/log
+home/romanost/OS/Lab05/pattern.txt
+home/romanost/OS/Lab05/destination.txt
+tar: Removing leading `/' from member names
+/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/
+/home/romanost/OS/Lab05/home/romanost/
+/home/romanost/OS/Lab05/home/romanost/OS/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example2.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example4.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/out1
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/example6.c
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/log
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/pattern.txt
+/home/romanost/OS/Lab05/home/romanost/OS/Lab05/destination.txt
+/home/romanost/OS/Lab05/out5
+/home/romanost/OS/Lab05/out3
+/home/romanost/OS/Lab05/source.txt
+/home/romanost/OS/Lab05/filename
+/home/romanost/OS/Lab05/file.txt
+/home/romanost/OS/Lab05/example5.c
+/home/romanost/OS/Lab05/newname.txt
+/home/romanost/OS/Lab05/out6
+/home/romanost/OS/Lab05/example3.c
+/home/romanost/OS/Lab05/out4
+/home/romanost/OS/Lab05/out2
+/home/romanost/OS/Lab05/archive.tar
+/home/romanost/OS/Lab05/example1.c
+/home/romanost/OS/Lab05/out1
